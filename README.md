@@ -1,2 +1,0 @@
-# poprider
-poprider
